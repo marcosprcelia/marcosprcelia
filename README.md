@@ -12,4 +12,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:marcos.gomes.santos10@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![]()
+![](https://media.tenor.com/5S7UeMNDIf8AAAAj/hang-loose-goal-celebration.gif)
